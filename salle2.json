@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/_\/ya53oqrlid\/vincentbg92.github.io\/template_nu\/fachos.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -57,7 +57,7 @@
          "y":0
         }, 
         {
-         "data":[495, 496, 0, 0, 0, 479, 480, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 463, 464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 479, 480, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":8,
          "id":41,
          "name":"ayme",
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/_\/ya53oqrlid\/vincentbg92.github.io\/template_nu\/ayme.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/_\/ya53oqrlid\/vincentbg92.github.io\/template_nu\/chardonne.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/_\/ya53oqrlid\/vincentbg92.github.io\/template_nu\/hussards.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/_\/ya53oqrlid\/vincentbg92.github.io\/template_nu\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -285,7 +285,7 @@
         {
          "columns":16,
          "firstgid":455,
-         "image":"..\/These-master\/tilesets_deviant_milkian_1.png",
+         "image":"src\/assets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -298,7 +298,7 @@
         {
          "columns":8,
          "firstgid":711,
-         "image":"..\/These-master\/floortileset.png",
+         "image":"src\/assets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,

@@ -78,13 +78,13 @@
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147483656, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 2147483666, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":39,
-         "name":"vers_map",
+         "name":"vers_salle2",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/_\/ya53oqrlid\/vincentbg92.github.io\/template_nu\/salle2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -230,7 +230,7 @@
         {
          "columns":16,
          "firstgid":334,
-         "image":"..\/These-master\/tilesets_deviant_milkian_1.png",
+         "image":"src\/assets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -243,7 +243,7 @@
         {
          "columns":8,
          "firstgid":590,
-         "image":"..\/These-master\/floortileset.png",
+         "image":"src\/assets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -256,7 +256,7 @@
         {
          "columns":4,
          "firstgid":654,
-         "image":"..\/These-master\/5_c\u00e9line.png",
+         "image":"src\/assets\/5_c\u00e9line.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -269,7 +269,7 @@
         {
          "columns":4,
          "firstgid":670,
-         "image":"..\/These-master\/5_brasillach.png",
+         "image":"src\/assets\/5_brasillach.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -282,7 +282,7 @@
         {
          "columns":4,
          "firstgid":686,
-         "image":"..\/These-master\/5_rebatet.png",
+         "image":"src\/assets\/5_rebatet.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -295,7 +295,7 @@
         {
          "columns":4,
          "firstgid":702,
-         "image":"..\/These-master\/5_drieu.png",
+         "image":"src\/assets\/5_drieu.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
