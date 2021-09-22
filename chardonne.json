@@ -32,6 +32,12 @@
          "id":47,
          "name":"zone_goya1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincent.berthelier.ml\/goya1_2.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -44,6 +50,12 @@
          "id":48,
          "name":"zone_goya2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincent.berthelier.ml\/goya-2.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -56,6 +68,12 @@
          "id":49,
          "name":"zone_goya3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincent.berthelier.ml\/goya-3.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -80,6 +98,12 @@
          "id":40,
          "name":"chardonne",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincent.berthelier.ml\/chardonne.pdf"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
