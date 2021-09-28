@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vincentbg92.github.io\/pages"
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/chardonne.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -116,6 +116,12 @@
          "id":41,
          "name":"morand",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/morand.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
