@@ -74,6 +74,12 @@
          "id":45,
          "name":"ayme",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/ayme.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":8,
