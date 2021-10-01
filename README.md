@@ -4,7 +4,7 @@ Ceci est ReaK©, une version interactive et ludique de ma thèse, faite grâce �
 
 Les petits malins qui voudraient faire pareil n'ont qu'à se renseigner sur [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
-![map](./map.png)
+![logo](./reak(1).png)
 
 ## Installation
 
