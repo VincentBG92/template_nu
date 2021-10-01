@@ -1,6 +1,6 @@
 # WorkAdventure Thèse de Vincent Berthelier
 
-Ceci est une version interactive et ludique de ma thèse, faite grâce à [WorkAdventure](https://workadventu.re).
+Ceci est ReaK©, une version interactive et ludique de ma thèse, faite grâce à [WorkAdventure](https://workadventu.re).
 
 Les petits malins qui voudraient faire pareil n'ont qu'à se renseigner sur [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
