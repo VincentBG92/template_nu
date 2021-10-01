@@ -44,6 +44,12 @@
          "id":46,
          "name":"nimier",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/nimier.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -56,6 +62,12 @@
          "id":47,
          "name":"blondin",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/blondin.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -68,6 +80,12 @@
          "id":48,
          "name":"laurent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/laurent.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -80,6 +98,12 @@
          "id":49,
          "name":"deon",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/deon.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
