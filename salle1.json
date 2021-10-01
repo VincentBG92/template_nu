@@ -56,6 +56,12 @@
          "id":44,
          "name":"maurras",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/maurras.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -68,6 +74,12 @@
          "id":45,
          "name":"jouhandeau",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/jouhandeau.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -80,6 +92,12 @@
          "id":46,
          "name":"purisme",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/hermant.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -92,6 +110,12 @@
          "id":47,
          "name":"bernanos",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vincentbg92.github.io\/pages\/bernanos.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
