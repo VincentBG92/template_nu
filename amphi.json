@@ -34,9 +34,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"*youtubelive*"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -50,6 +50,12 @@
          "id":46,
          "name":"reserve_jury",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"triggerMessage",
+                 "type":"string",
+                 "value":"Ces fauteuils sont r\u00e9serv\u00e9s aux membres du jury. Si vous n'\u00eates pas membre du jury, merci de prendre plut\u00f4t une chaise."
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":14,
